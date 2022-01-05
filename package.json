@@ -1,0 +1,12 @@
+{
+  "name": "ReadyCheckJS",
+  "version": "1.0.0",
+  "description": "A discord bot for checking that the members in a channel are ready.",
+  "main": "index.js",
+  "repository": "https://github.com/hatesh/ReadyCheckJS",
+  "author": "Hatesh",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.5.0"
+  }
+}
